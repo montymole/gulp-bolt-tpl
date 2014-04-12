@@ -1,6 +1,10 @@
 {
   "name": "my-node-modules",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/montymole/gulp-bolt-tpl"
+  },
   "dependencies": {
     "gulp-util": "~2.2.0",
     "through": "~2.3.4",
