@@ -1,0 +1,9 @@
+{
+  "name": "my-node-modules",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp-util": "~2.2.0",
+    "through": "~2.3.4",
+    "html-minifier": "~0.5.5"
+  }
+}
